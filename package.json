@@ -1,0 +1,13 @@
+{
+  "name": "multipart-test",
+  "version": "0.1.0",
+  "description": "Testing multipart requests",
+  "engine": {
+    "node": ">6"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "multer": "^1.2.0"
+  }
+}
